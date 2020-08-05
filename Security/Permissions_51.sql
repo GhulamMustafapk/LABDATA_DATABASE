@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE SCHEMA TO [IHTLABM\LabManager];
+

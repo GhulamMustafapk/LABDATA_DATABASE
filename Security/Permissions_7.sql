@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT ALTER TO [IHTLABM\LabManager];
+

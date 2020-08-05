@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE CERTIFICATE TO [IHTLABM\LabManager];
+

@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT ALTER ANY MASK TO [IHTLABM\LabManager];
+

@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CHECKPOINT TO [IHTLABM\LabManager];
+

@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE QUEUE TO [IHTLABM\LabManager];
+

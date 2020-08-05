@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE VIEW TO [IHTLABM\LabManager];
+

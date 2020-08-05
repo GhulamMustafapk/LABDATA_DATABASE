@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT ALTER ANY ASSEMBLY TO [IHTLABM\LabManager];
+

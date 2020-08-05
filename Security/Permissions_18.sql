@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT ALTER ANY ROUTE TO [IHTLABM\LabManager];
+

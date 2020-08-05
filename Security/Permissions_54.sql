@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE TABLE TO [IHTLABM\LabManager];
+

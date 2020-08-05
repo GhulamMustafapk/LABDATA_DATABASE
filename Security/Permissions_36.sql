@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE ASSEMBLY TO [IHTLABM\LabManager];
+

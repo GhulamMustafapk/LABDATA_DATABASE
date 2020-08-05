@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT UPDATE TO [IHTLABM\LabManager];
+

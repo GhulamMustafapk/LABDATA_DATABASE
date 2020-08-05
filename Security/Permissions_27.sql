@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT AUTHENTICATE TO [IHTLABM\LabManager];
+

@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT DELETE TO [IHTLABM\LabManager];
+

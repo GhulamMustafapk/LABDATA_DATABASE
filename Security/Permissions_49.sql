@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE CONTRACT TO [IHTLABM\LabManager];
+

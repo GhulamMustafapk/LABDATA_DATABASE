@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT ALTER ANY CONTRACT TO [IHTLABM\LabManager];
+

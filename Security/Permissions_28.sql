@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT BACKUP DATABASE TO [IHTLABM\LabManager];
+

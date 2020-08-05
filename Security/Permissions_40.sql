@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE FUNCTION TO [IHTLABM\LabManager];
+

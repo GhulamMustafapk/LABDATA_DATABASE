@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE RULE TO [IHTLABM\LabManager];
+

@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT ALTER ANY USER TO [IHTLABM\LabManager];
+

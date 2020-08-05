@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE SERVICE TO [IHTLABM\LabManager];
+

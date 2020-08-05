@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT VIEW DEFINITION TO [IHTLABM\LabManager];
+

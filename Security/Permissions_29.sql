@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT BACKUP LOG TO [IHTLABM\LabManager];
+

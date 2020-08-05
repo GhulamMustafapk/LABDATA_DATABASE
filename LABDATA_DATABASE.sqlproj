@@ -120,41 +120,127 @@
     <Folder Include="Properties" />
     <Folder Include="dbo\" />
     <Folder Include="dbo\Tables\" />
+    <Folder Include="dbo\Views\" />
     <Folder Include="Security\" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="dbo\Tables\Workload.sql">
+    <Build Include="dbo\Tables\testcount_1.sql">
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Tables\testcount.sql">
+    <Build Include="dbo\Tables\lab_1.employees.sql">
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Tables\lab.employees.sql">
+    <Build Include="dbo\Tables\bbank_1.sql">
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Tables\bbank.sql">
+    <Build Include="dbo\Tables\testcount_2017-2018_1.sql">
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Tables\testcount_2017-2018.sql">
+    <Build Include="dbo\Tables\Targets_1.sql">
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Tables\Targets.sql">
+    <Build Include="dbo\Tables\Samplecount_1.sql">
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Tables\Samplecount.sql">
+    <Build Include="dbo\Tables\Workload_1.sql">
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Tables\testcount_2019.sql">
+    <Build Include="dbo\Tables\testcount_2019_1.sql">
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="Security\IHTLABM_LabManager.sql" />
-    <Build Include="Security\manager.sql" />
-    <Build Include="Security\RoleMemberships.sql" />
-    <Build Include="Security\dbi.sql" />
-    <Build Include="Security\lab.sql" />
-    <Build Include="Security\Permissions.sql" />
-    <Build Include="ExtendedProperties.sql" />
-    <Build Include="Security\CMK_Auto1.sql" />
-    <Build Include="Security\CEK_Auto1.sql" />
+    <Build Include="dbo\Views\_MPStats_Sys_79B300FB_{90523402-402D-40B3-B8AB-FA0050EDE79C}_FK_Samplecount_testcount1.sql">
+      <QuotedIdentifier>On</QuotedIdentifier>
+    </Build>
+    <Build Include="dbo\Views\_MPStats_Sys_7B9B496D_{153FC4DD-BCA3-45BD-8D32-048E0BAD8C14}_FK_bbank_testcount1.sql">
+      <QuotedIdentifier>On</QuotedIdentifier>
+    </Build>
+    <Build Include="Security\IHTLABM_LabManager_1.sql" />
+    <Build Include="Security\RoleMemberships_1.sql" />
+    <Build Include="Security\RoleMemberships_3.sql" />
+    <Build Include="Security\RoleMemberships_5.sql" />
+    <Build Include="Security\RoleMemberships_7.sql" />
+    <Build Include="Security\RoleMemberships_9.sql" />
+    <Build Include="Security\RoleMemberships_11.sql" />
+    <Build Include="Security\RoleMemberships_13.sql" />
+    <Build Include="Security\RoleMemberships_15.sql" />
+    <Build Include="Security\RoleMemberships_17.sql" />
+    <Build Include="Security\dbi_1.sql" />
+    <Build Include="Security\lab_1.sql" />
+    <Build Include="Security\Permissions_1.sql" />
+    <Build Include="Security\Permissions_2.sql" />
+    <Build Include="Security\Permissions_3.sql" />
+    <Build Include="Security\Permissions_5.sql" />
+    <Build Include="Security\Permissions_6.sql" />
+    <Build Include="Security\Permissions_7.sql" />
+    <Build Include="Security\Permissions_8.sql" />
+    <Build Include="Security\Permissions_9.sql" />
+    <Build Include="Security\Permissions_10.sql" />
+    <Build Include="Security\Permissions_11.sql" />
+    <Build Include="Security\Permissions_12.sql" />
+    <Build Include="Security\Permissions_13.sql" />
+    <Build Include="Security\Permissions_14.sql" />
+    <Build Include="Security\Permissions_15.sql" />
+    <Build Include="Security\Permissions_16.sql" />
+    <Build Include="Security\Permissions_17.sql" />
+    <Build Include="Security\Permissions_18.sql" />
+    <Build Include="Security\Permissions_19.sql" />
+    <Build Include="Security\Permissions_20.sql" />
+    <Build Include="Security\Permissions_21.sql" />
+    <Build Include="Security\Permissions_22.sql" />
+    <Build Include="Security\Permissions_23.sql" />
+    <Build Include="Security\Permissions_24.sql" />
+    <Build Include="Security\Permissions_25.sql" />
+    <Build Include="Security\Permissions_26.sql" />
+    <Build Include="Security\Permissions_27.sql" />
+    <Build Include="Security\Permissions_28.sql" />
+    <Build Include="Security\Permissions_29.sql" />
+    <Build Include="Security\Permissions_30.sql" />
+    <Build Include="Security\Permissions_31.sql" />
+    <Build Include="Security\Permissions_32.sql" />
+    <Build Include="Security\Permissions_33.sql" />
+    <Build Include="Security\Permissions_34.sql" />
+    <Build Include="Security\Permissions_35.sql" />
+    <Build Include="Security\Permissions_36.sql" />
+    <Build Include="Security\Permissions_37.sql" />
+    <Build Include="Security\Permissions_38.sql" />
+    <Build Include="Security\Permissions_39.sql" />
+    <Build Include="Security\Permissions_40.sql" />
+    <Build Include="Security\Permissions_41.sql" />
+    <Build Include="Security\Permissions_42.sql" />
+    <Build Include="Security\Permissions_43.sql" />
+    <Build Include="Security\Permissions_44.sql" />
+    <Build Include="Security\Permissions_45.sql" />
+    <Build Include="Security\Permissions_46.sql" />
+    <Build Include="Security\Permissions_47.sql" />
+    <Build Include="Security\Permissions_48.sql" />
+    <Build Include="Security\Permissions_49.sql" />
+    <Build Include="Security\Permissions_50.sql" />
+    <Build Include="Security\Permissions_51.sql" />
+    <Build Include="Security\Permissions_52.sql" />
+    <Build Include="Security\Permissions_53.sql" />
+    <Build Include="Security\Permissions_54.sql" />
+    <Build Include="Security\Permissions_55.sql" />
+    <Build Include="Security\Permissions_56.sql" />
+    <Build Include="Security\Permissions_57.sql" />
+    <Build Include="Security\Permissions_58.sql" />
+    <Build Include="Security\Permissions_59.sql" />
+    <Build Include="Security\Permissions_60.sql" />
+    <Build Include="Security\Permissions_61.sql" />
+    <Build Include="Security\Permissions_62.sql" />
+    <Build Include="Security\Permissions_63.sql" />
+    <Build Include="Security\Permissions_64.sql" />
+    <Build Include="Security\Permissions_65.sql" />
+    <Build Include="Security\Permissions_66.sql" />
+    <Build Include="Security\Permissions_67.sql" />
+    <Build Include="Security\Permissions_69.sql" />
+    <Build Include="Security\Permissions_70.sql" />
+    <Build Include="Security\Permissions_71.sql" />
+    <Build Include="Security\Permissions_72.sql" />
+    <Build Include="ExtendedProperties_1.sql" />
+    <Build Include="ExtendedProperties_2.sql" />
+    <Build Include="ExtendedProperties_3.sql" />
+    <Build Include="ExtendedProperties_4.sql" />
+    <Build Include="Security\CMK_Auto1_1.sql" />
+    <Build Include="Security\CEK_Auto1_1.sql" />
   </ItemGroup>
 </Project>

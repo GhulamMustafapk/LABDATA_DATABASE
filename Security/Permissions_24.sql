@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT ALTER ANY SERVICE TO [IHTLABM\LabManager];
+

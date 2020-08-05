@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT TAKE OWNERSHIP TO [IHTLABM\LabManager];
+

@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT UNMASK TO [IHTLABM\LabManager];
+

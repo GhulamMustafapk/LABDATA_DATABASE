@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE SYMMETRIC KEY TO [IHTLABM\LabManager];
+

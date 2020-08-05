@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT INSERT TO [IHTLABM\LabManager];
+

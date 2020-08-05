@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE SYNONYM TO [IHTLABM\LabManager];
+

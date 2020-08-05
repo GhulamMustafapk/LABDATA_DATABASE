@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT VIEW DATABASE STATE TO [IHTLABM\LabManager];
+

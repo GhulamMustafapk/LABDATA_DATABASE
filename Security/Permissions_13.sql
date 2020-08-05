@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT ALTER ANY DATASPACE TO [IHTLABM\LabManager];
+

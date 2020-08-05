@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE ROUTE TO [IHTLABM\LabManager];
+

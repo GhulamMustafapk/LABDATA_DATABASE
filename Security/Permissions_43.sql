@@ -1,0 +1,4 @@
+﻿
+GO
+GRANT CREATE PROCEDURE TO [IHTLABM\LabManager];
+
